@@ -1,0 +1,1 @@
+return { path = "C:\\Users\\gabriel.lima\\.config\\lite-xl\\plugins", documents = {["views"]={[1]={["text"]=false,["crlf"]=true,["filename"]="treeview.lua",["selection"]={[1]=15,[2]=12,[3]=15,[4]=12},["type"]="doc",["active"]=true,["scroll"]={["x"]=0,["y"]=0}}},["type"]="leaf",["active_view"]=1}, directories = {} }
