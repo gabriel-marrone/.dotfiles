@@ -5,7 +5,7 @@ sudo pacman -S --needed \
   brightnessctl pamixer playerctl libnotify \
   grim slurp swappy \
   swaybg wl-clipboard cliphist \
-  inter-font ttf-material-symbols-variable \
+  inter-font ttf-material-symbols-variable ttf-jetbrains-mono-nerd \
   qt6-svg qt6-imageformats qt6-multimedia qt6-5compat \
   fuzzel libqalculate \
   khal vdirsyncer \
