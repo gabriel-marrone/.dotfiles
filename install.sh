@@ -10,4 +10,4 @@ sudo pacman -S --needed \
   fuzzel libqalculate \
   khal vdirsyncer \
   polkit-gnome \
-  base-devel
+  base-devel stow
